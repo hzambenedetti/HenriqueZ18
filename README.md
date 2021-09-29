@@ -1,6 +1,6 @@
 ### Opa!
 
-  - 🔭 Graduando no Curso de Engenharia de Computação
+  - 🔭 Engenharia de Computação
 
 <div>
   <a href="https://github.com/HenriqueZ18">
