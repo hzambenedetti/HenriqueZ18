@@ -1,6 +1,4 @@
-### Opa!
 
-  -  Engenharia de Computação
 
 
  
